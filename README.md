@@ -66,7 +66,7 @@ crossystem clear_tpm_owner_request=1
 
 reboot
 
-chromeos-setdevpassword
+chromeos-setdevpasswd
 _______________________________________
 Now create password (DO NOT USE PASSWORDS LIKE YOUR BIRTHDAY DATE OR 123).
 After that use your Chromebook as much as you can.
