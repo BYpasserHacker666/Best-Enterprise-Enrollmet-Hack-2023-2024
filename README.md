@@ -69,4 +69,4 @@ reboot
 chromeos-setdevpassword
 _______________________________________
 Now create password (DO NOT USE PASSWORDS LIKE YOUR BIRTHDAY DATE OR 123).
-After that use your Chromebook as moch as you can.
+After that use your Chromebook as much as you can.
