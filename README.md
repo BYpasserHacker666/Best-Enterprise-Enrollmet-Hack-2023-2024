@@ -27,5 +27,46 @@ Click on esc reload power keys at the same time.
 It has to say ChromeOS is missing or damaged.
 Now insert your flash drive into your chromebook.
 Now just wait until it is says System Recovery is done.
-Then unplug your flashdrive from your chromebook
+Then unplug your flashdrive from your Chromebook.
+It is will say Welcome to Chromebook.
+Do all of the steps until the Chrome OS terms.
+On the Chrome OS terms screen click on writing that is on the screen.
+Scroll down and you will see language button click on it.
+Change language from english to ukraninian.
+Now click back until you see welcome screen.
+There you have to change language to ukarinian.
+Now click next until you see ChromeOS terms screen again.
+Then click Accept & Continue.
+Now just create new account.
+When you created it turn off your Chromebook.
+Now you have to enter dev mode by pressing esc reload power at the same time.
+Now press Ctrl and D at the same time.
+Then press Enter.
+When you see Verefication is off click on Ctrl and D again. 
+Now you are just waiting until your system turns puts into dev mode.
+When it is done Prapairing for dev mode.
+Click on Ctrl and D again.
+When the system turns on you have to click on Ctrl + Alt + reload buttons at the same time.
+You are enterd into console.
+Type in root.
+Now you have to enter some commands.
+_______________________________________
+pkill -9 chrome 
 
+rm -rf /home/chronos/Local\ State /var/lib/whitelist /var/lib/devicesettings /home/.shadow
+
+
+
+rm -rf /home/chronos/.oobe_completed
+
+
+
+crossystem clear_tpm_owner_request=1
+
+
+reboot
+
+chromeos-setdevpassword
+_______________________________________
+Now create password (DO NOT USE PASSWORDS LIKE YOUR BIRTHDAY DATE OR 123).
+After that use your Chromebook as moch as you can.
