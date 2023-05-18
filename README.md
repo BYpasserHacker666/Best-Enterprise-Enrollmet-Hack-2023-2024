@@ -11,6 +11,7 @@ Go to https://chrome100.dev.
 Found your board name there.
 Press on your board name. 
 Now find version called 11151.113.0.
+note:if your latest version is older than that just skip every step until "When your Chromebook is turned on it will say Welcome to Chromebook."
 Then download it
 WARNNING if yours does not have this version try the oldest version.
 After that go to https://chrome.google.com/webstore/.
@@ -28,7 +29,7 @@ It has to say ChromeOS is missing or damaged.
 Now insert your flash drive into your chromebook.
 Now just wait until it is says System Recovery is done.
 Then unplug your flashdrive from your Chromebook.
-It is will say Welcome to Chromebook.
+When your Chromebook is turned on it will say Welcome to Chromebook.
 Do all of the steps until the Chrome OS terms.
 On the Chrome OS terms screen click on writing that is on the screen.
 Scroll down and you will see language button click on it.
@@ -70,3 +71,4 @@ chromeos-setdevpasswd
 _______________________________________
 Now create password (DO NOT USE PASSWORDS LIKE YOUR BIRTHDAY DATE OR 123).
 After that use your Chromebook as much as you can.
+
