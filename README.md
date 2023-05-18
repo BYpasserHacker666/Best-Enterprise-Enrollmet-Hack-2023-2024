@@ -72,3 +72,5 @@ _______________________________________
 Now create password (DO NOT USE PASSWORDS LIKE YOUR BIRTHDAY DATE OR 123).
 After that use your Chromebook as much as you can.
 
+JOIN my discord server >>https://discord.com/channels/1108580382732996651/1108580384175825060
+
