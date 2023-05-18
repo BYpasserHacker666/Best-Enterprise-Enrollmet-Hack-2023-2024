@@ -11,7 +11,7 @@ Go to https://chrome100.dev.
 Found your board name there.
 Press on your board name. 
 Now find version called 11151.113.0.
-note:if your latest version is older than that just skip every step until "When your Chromebook is turned on it will say Welcome to Chromebook."
+Note:if your latest version is older than that just skip every step until "When your Chromebook is turned on it will say Welcome to Chromebook."
 Then download it
 WARNNING if yours does not have this version try the oldest version.
 After that go to https://chrome.google.com/webstore/.
