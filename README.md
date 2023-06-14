@@ -76,11 +76,17 @@ sudo crossystem block_devmode=0
 crossystem clear_tpm_owner_request=1
 
 
+chromeos-setdevpasswd 
+
+//now create password for your root password(DO NOT USE 123 or 111 or BIRTHDAY DATE)
+
+
 reboot
 
-chromeos-setdevpasswd
+
 _______________________________________
-Now create password (DO NOT USE PASSWORDS LIKE YOUR BIRTHDAY DATE OR 123).
+
+
 After that use your Chromebook as much as you can.
 
 JOIN my discord server >>https://discord.com/channels/1108580382732996651/1108580384175825060
