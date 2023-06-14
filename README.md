@@ -62,6 +62,17 @@ rm -rf /home/chronos/.oobe_completed
 
 
 
+sudo vpd -i RW_VPD -s check_enrollment=0
+
+
+sudo vpd -i RW_VPD -s block_devmode=0
+
+
+
+sudo crossystem block_devmode=0
+
+
+
 crossystem clear_tpm_owner_request=1
 
 
