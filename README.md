@@ -1,4 +1,5 @@
 # AMAZING-Enterprise-Enrollment-hack-2023-to-2024
+Do it on your own risk. I am not responsible for your device.
 So i Founded BUG in chromeOS that let us BYPASS enterprise enrollment.
 REQIERMENTS
 ________________________________________________________________
@@ -8,7 +9,7 @@ ________________________________________________________________
 First you have to know your board name.To Know it type chrome://version in your browser on your chromebook.
 Now go to your Personal Computer.
 Go to https://chrome100.dev.
-Found your board name there.
+Find your board name there.
 Press on your board name. 
 Now find version called 11151.113.0.
 Note:if your latest version is older than that just skip every step until "When your Chromebook is turned on it will say Welcome to Chromebook."
@@ -78,7 +79,7 @@ crossystem clear_tpm_owner_request=1
 
 chromeos-setdevpasswd 
 
-//now create password for your root password(DO NOT USE 123 or 111 or BIRTHDAY DATE)
+//now create password for your root(DO NOT USE 123 or 111 or BIRTHDAY DATE)
 
 
 reboot
