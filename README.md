@@ -1,8 +1,8 @@
 # AMAZING-Enterprise-Enrollment-hack-2023-to-2024
 Do it on your own risk. I am not responsible for your device.
 So i Founded BUG in chromeOS that let us BYPASS enterprise enrollment.
-REQIERMENTS
 ________________________________________________________________
+REQIERMENTS
 Personal Computer (IT IS NOT YOUR school/business CHROMEBOOK!!!).
 .flash drive (at least 8gb)
 ________________________________________________________________
