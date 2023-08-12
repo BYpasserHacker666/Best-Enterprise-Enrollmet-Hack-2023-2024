@@ -45,7 +45,7 @@ Now you have to enter dev mode by pressing esc reload power at the same time.
 Now press Ctrl and D at the same time.
 Then press Enter.
 When you see Verefication is off click on Ctrl and D again. 
-Now you are just waiting until your system turns puts into dev mode.
+Now you are just waiting until your system puts into dev mode.
 When it is done Prapairing for dev mode.
 Click on Ctrl and D again.
 When the system turns on you have to click on Ctrl + Alt + reload buttons at the same time.
